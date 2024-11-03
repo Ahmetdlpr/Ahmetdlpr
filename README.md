@@ -1,7 +1,6 @@
 # 👋 Ahmetdlpr's GitHub Profile ## 🌟 
 
-About Me Hello! I'm Ahmet, a passionate developer with experience in various programming languages and technologies. 
-I'm always eager to learn and collaborate on exciting projects. #
+I am a computer programming student and here I share my roadmap of what I have learned for web, mobile and Windows form applications. #
 # 🛠️ Languages and Tools 
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
