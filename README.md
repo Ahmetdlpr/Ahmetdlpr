@@ -12,5 +12,5 @@ I'm always eager to learn and collaborate on exciting projects. #
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git) 
 
 # 📈 Most Used Languages 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetdlpr&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetdlpr&layout=compact)
 
