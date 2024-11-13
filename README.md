@@ -9,7 +9,7 @@ I am a computer programming student and here I share my roadmap of what I have l
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3) 
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git) 
-
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 # 📈 Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetdlpr&layout=compact)
 
